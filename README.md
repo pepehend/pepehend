@@ -13,6 +13,6 @@ A dream for me is to became an good developer on the languages that i like so mu
 
 
 ###  Contact Me
-- <a href="www.linkedin.com/in/link-pedrohenrique">Linkedin</a>
+- <a href="https://www.linkedin.com/in/link-pedrohenrique">Linkedin</a>
 - <a href="mailto:pedro@phdevtech.com">E-mail</a>
 </div>
